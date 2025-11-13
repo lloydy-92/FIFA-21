@@ -32,7 +32,7 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
 ## Tools and Libraries
 | Purpose | Libraries Used |
 |----------|----------------|
-| Data manipulation | `pandas`, `numpy` |
+| Data manipulation | `pandas` |
 | Statistical testing | `scipy.stats (mannwhitneyu)` |
 | Data visualization | `matplotlib`, `seaborn`, `math` |
 
@@ -47,7 +47,7 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
    source venv/bin/activate       # On Windows use: venv\Scripts\activate
 3. **Install dependencies**
    ```bash
-   pip install pandas numpy scipy matplotlib seaborn math jupyter
+   pip install pandas scipy matplotlib seaborn math jupyter
 4. **Launch the notebook**
    ```bash
    jupyter notebook FIFA-21.ipynb
