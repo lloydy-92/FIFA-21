@@ -56,7 +56,7 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
 ```bash
 FIFA-21/
 ├── FIFA-21.ipynb        # Main analysis notebook
-├── FIFA-21-Complete.csv      # Dataset containing FIFA 21 player information and statistics
+├── FIFA-21-Complete.xls      # Dataset containing FIFA 21 player information and statistics
 ├── requirements.txt          # Python dependencies
 └── README.md                 # Project documentation
 ```
