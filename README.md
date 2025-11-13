@@ -61,4 +61,25 @@ FIFA-21-Analysis/
 └── README.md                 # Project documentation
 ```
 
+## Contributing
+Contributions, suggestions, and improvements are welcome and encouraged! If you would like the enhance any aspect of the project, such as analysis or visualisations:
+1. Fork the repository
+2. Create a feature branch
+   ```bash
+   git checkout -b feature/improve-analysis
+3. Commit your changes
+   ```bash
+   git commit -m 'Add new visualisation'
+4. Push to the branch
+   ```bash
+   git push origin feature/improve-analysis
+5. Open a Pull Request
+
+## Author
+**Sam Lloyd**, sammy.lloyd@live.com, *github.com/lloydy-92*
+
+## Acknowledgements
+- 
+- Codecademy Data Science Path for providing structured guidance on this project.
+- The open-source community for libraries like ```pandas```, ```matplotlib```, and ```seaborn```.
      
