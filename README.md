@@ -83,4 +83,5 @@ Contributions, suggestions, and improvements are welcome and encouraged! If you 
 - Aayush Mishra on Kaggle for providing the dataset (*https://www.kaggle.com/datasets/aayushmishra1512/fifa-2021-complete-player-data/data*)
 - Codecademy Data Science Path for providing structured guidance on this project.
 - The open-source community for libraries like ```pandas```, ```matplotlib```, and ```seaborn```.
-     
+-----------------------------------------------------------------------------------------------------------------------------------------------
+"*Statistics can reveal what passion often hides — the quiet precision behind the beautiful game*"
