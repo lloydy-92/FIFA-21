@@ -39,8 +39,8 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
 ## Installation
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/lloydy-92/FIFA-21-Analysis.git
-   cd FIFA-21-Analysis
+   git clone https://github.com/lloydy-92/FIFA-21.git
+   cd FIFA-21
 2. **(Optional) Create and activate a virtual environment**
    ```bash
    python -m venv venv
@@ -54,7 +54,7 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
 
 ## Project Structure
 ```bash
-FIFA-21-Analysis/
+FIFA-21/
 ├── FIFA-21.ipynb        # Main analysis notebook
 ├── FIFA-21-Complete.csv      # Dataset containing FIFA 21 player information and statistics
 ├── requirements.txt          # Python dependencies
