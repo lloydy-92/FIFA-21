@@ -35,6 +35,7 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
 | Data manipulation | `pandas` |
 | Statistical testing | `scipy.stats (mannwhitneyu)` |
 | Data visualization | `matplotlib`, `seaborn`, `math` |
+| Environment | Jupyter Notebook (`%matplotlib inline`) |
 
 ## Installation
 1. **Clone this repository**
