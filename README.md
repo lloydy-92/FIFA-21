@@ -19,7 +19,7 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
    - Asses whether certain nationalities produce more young talent than other, and if other nationalities have a greater proportion of older higher rated players.
   
 ## Key insights (Summary)
-> For full results, visualisations, and detailed discussion, open the Jupyter notebook FIFA 21.ipynb in this repository.
+> For full results, visualisations, and detailed discussion, open the Jupyter notebook FIFA-21.ipynb in this repository.
 - Dropped unneccessary columns, as well as renamed and created new useful columns, using ```pandas```.
 - Visualised player statistic patterns using ```matplotlib``` and ```seaborn```. For example:
   - **Scatter plots**: Comparing rating to potential rating.
@@ -50,7 +50,7 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
    pip install pandas numpy scipy matplotlib seaborn math jupyter
 4. **Launch the notebook**
    ```bash
-   jupyter notebook FIFA 21.ipynb
+   jupyter notebook FIFA-21.ipynb
 
 ## Project Structure
 ```bash
