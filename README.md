@@ -28,4 +28,37 @@ This project takes a dataset of FIFA 21 player information and aims to look at t
   - **Box plot**: Exploring the difference in rating and potential rating variance across all nationalities.
 - Aggregated average values grouped by certain varaibles to better understand the variation between said variables.
 - Used Mann-Whitney U tests to determine a significant difference between findings.
+
+## Tools and Libraries
+| Purpose | Libraries Used |
+|----------|----------------|
+| Data manipulation | `pandas`, `numpy` |
+| Statistical testing | `scipy.stats (mannwhitneyu)` |
+| Data visualization | `matplotlib`, `seaborn`, `math` |
+
+## Installation
+1. **Clone this repository**
+   ```bash
+   git clone https://github.com/lloydy-92/FIFA-21-Analysis.git
+   cd FIFA-21-Analysis
+2. **(Optional) Create and activate a virtual environment**
+   ```bash
+   python -m venv venv
+   source venv/bin/activate       # On Windows use: venv\Scripts\activate
+3. **Install dependencies**
+   ```bash
+   pip install pandas numpy scipy matplotlib seaborn math jupyter
+4. **Launch the notebook**
+   ```bash
+   jupyter notebook FIFA 21.ipynb
+
+## Project Structure
+```bash
+FIFA-21-Analysis/
+├── FIFA-21.ipynb        # Main analysis notebook
+├── FIFA-21-Complete.csv      # Dataset containing FIFA 21 player information and statistics
+├── requirements.txt          # Python dependencies
+└── README.md                 # Project documentation
+```
+
      
