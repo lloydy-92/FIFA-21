@@ -59,6 +59,7 @@ FIFA-21/
 ├── FIFA-21.ipynb        # Main analysis notebook
 ├── FIFA-21-Complete.xls      # Dataset containing FIFA 21 player information and statistics
 ├── requirements.txt          # Python dependencies
+├── analysis.md               # Written analysis file
 └── README.md                 # Project documentation
 ```
 
